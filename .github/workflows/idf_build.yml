@@ -1,7 +1,7 @@
 name: "Espressif IoT Development Framework (ESP-IDF) on push"
 on:
   push:
-    branches: [main]
+    branches: [master]
 
     inputs:
       path:
